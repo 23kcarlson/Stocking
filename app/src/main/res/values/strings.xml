@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Stocking</string>
+    <string name="button_label_scan">Scan</string>
+    <string name="button_label_save">Save</string>
+    <string name="label_upc">UPC Code</string>
+    <string name="edit_hint_upc">Enter UPC Code</string>
+    <string name="label_product">Product</string>
+    <string name="label_back_quantity">Amount in Back</string>
+    <string name="label_front_quantity">Amount Needed on Shelves</string>
+    <string name="button_desc_add">Add</string>
+</resources>
